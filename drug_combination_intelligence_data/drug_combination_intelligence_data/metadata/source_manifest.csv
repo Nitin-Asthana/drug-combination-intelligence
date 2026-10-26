@@ -1,6 +1,6 @@
 file,description,provenance,created_date,notes
 company_drug_master.csv,Public product page extraction,Manufacturer public website,2026-08-18,Current web content; not a claim of completeness beyond retrieved page
-company_ingredient_master.csv,Normalized ingredient layer derived from Acme Pharma product records,Derived,2026-08-18,Identifiers intentionally left blank for API enrichment
+company_ingredient_master.csv,Normalized ingredient layer derived from ABC Pharma product records,Derived,2026-08-18,Identifiers intentionally left blank for API enrichment
 internal_combination_research.csv,Synthetic internal research dataset,Synthetic,2026-08-18,Demo-only; not real research or clinical evidence
 public_source_registry.csv,Authorized/public source inventory,Public source documentation,2026-08-18,Verify license/terms before redistribution
 public_evidence_collection_recipes.csv,Repeatable collection recipes for agent,Derived,2026-08-18,No unsupported findings are fabricated

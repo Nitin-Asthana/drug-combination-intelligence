@@ -6,7 +6,7 @@ Created: 2026-08-18
 Starter knowledge/data package for an AI-assisted Drug Combination Intelligence application.
 
 ## Important provenance rules
-- `company/` contains product facts extracted from the public Acme Pharma Branded Products page.
+- `company/` contains product facts extracted from the public ABC Pharma Branded Products page.
 - `internal/` combination research records are explicitly SYNTHETIC demonstration data. They must never be presented as real internal research or clinical evidence.
 - `public/` contains the authoritative source registry and repeatable collection recipes. It intentionally avoids fabricating public findings where the current session did not retrieve the underlying record.
 - Every public evidence record added later must retain source URL/identifier, retrieval date, source type, and a short provenance note.

@@ -100,7 +100,7 @@ def _add_glossary(doc):
         ("retrieved", "Fetched live from a public API during this run."),
         ("cached", "Real public evidence collected earlier and stored locally, served offline."),
         ("planned_not_retrieved", "A query the agent planned but did NOT execute — a search plan, not a finding. Never treated as evidence."),
-        ("reference", "Product-master facts (e.g. the Acme Pharma product page composition)."),
+        ("reference", "Product-master facts (e.g. the ABC Pharma product page composition)."),
     ])
 
     _glossary_group(doc, "Authority level (weighting of a source)", [
@@ -240,7 +240,7 @@ def build() -> str:
     )
     steps = [
         ("1. Drug Identity Agent",
-         "Maps each product to its active ingredient(s) from the Acme Pharma product master, "
+         "Maps each product to its active ingredient(s) from the ABC Pharma product master, "
          "normalizes names, and attaches real RxNorm / PubChem identifiers. Never guesses.",
          "Example: TACLORAN 1 MG 10C → tacrolimus (RxNorm 42316, PubChem CID 445643); "
          "MYCORAL M → mycophenolate mofetil (RxNorm 68149, CID 5281078). GLIMADAY 2 mg is "

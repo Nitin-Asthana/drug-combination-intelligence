@@ -1,7 +1,7 @@
 # Drug Combination Intelligence
 Lightweight research **evidence-synthesis demonstrator** that
 shows how an AI agent workflow can accelerate early drug-combination research for
-**Acme Pharma** products.
+**ABC Pharma** products.
 
 > ⚠️ **Not a clinical decision-support system.** It does not prescribe treatment,
 > approve combinations, or claim clinical efficacy. Every conclusion distinguishes
@@ -122,7 +122,7 @@ drug_combination_intelligence_data/   Supplied data package (authoritative)
 
 ## Data & provenance
 
-- `company/` — product facts extracted from the public Acme Pharma India Branded
+- `company/` — product facts extracted from the public ABC Pharma India Branded
   Business page.
 - `internal/` — **synthetic** combination research (demonstration only; never
   presented as real research or clinical evidence).

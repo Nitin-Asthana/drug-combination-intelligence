@@ -1,6 +1,6 @@
 """Agent 1 — Drug Identity Agent (spec §5).
 
-Maps a product name to canonical ingredient(s) using the Acme Pharma product and
+Maps a product name to canonical ingredient(s) using the ABC Pharma product and
 ingredient masters. Optionally enriches identifiers via RxNorm/PubChem when live
 retrieval is enabled. Never guesses an identity.
 """
@@ -22,7 +22,7 @@ def resolve_identity(product_name: str, live: bool) -> DrugIdentity:
             product_name=product_name,
             identity_confidence="Unknown",
             resolved=False,
-            note="Product not found in the Acme Pharma product master; identity not resolved.",
+            note="Product not found in the ABC Pharma product master; identity not resolved.",
         )
 
     ingredients = da.split_ingredients(row.get("active_ingredient_text", ""))
@@ -73,7 +73,7 @@ def resolve_identity(product_name: str, live: bool) -> DrugIdentity:
         identity_confidence=confidence,
         source_references=[row.get("source_url", "")],
         resolved=bool(normalized),
-        note="Ingredient(s) resolved from Acme Pharma product master.",
+        note="Ingredient(s) resolved from ABC Pharma product master.",
     )
 
 
@@ -95,7 +95,7 @@ def _identity_evidence(identity: DrugIdentity):
     from models.schemas import EvidenceItem
 
     return EvidenceItem(
-        source_name="Acme Pharma Branded Products",
+        source_name="ABC Pharma Branded Products",
         source_type="product_master",
         source_url=identity.source_references[0] if identity.source_references else "",
         source_identifier=identity.product_name,

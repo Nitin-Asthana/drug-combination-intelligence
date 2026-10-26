@@ -89,7 +89,7 @@ NCBI_EMAIL = os.getenv("DCI_NCBI_EMAIL", "").strip()
 # ---------------------------------------------------------------------------
 APP_TITLE = "Drug Interaction & Toxicity Analysis Agent"
 APP_TAGLINE = "Accelerate evidence discovery and synthesis, while keeping researchers in control."
-ORG_NAME = "Acme Pharma"
+ORG_NAME = "ABC Pharma"
 
 NON_CLINICAL_DISCLAIMER = (
     "Research evidence-synthesis demonstrator only. This tool is **not** a clinical "

@@ -1,5 +1,5 @@
 source_id,source_name,purpose,source_url,publisher,authority_level,access_method,usage_notes
-SRC-MFR,Acme Pharma Branded Products,Product master / composition / therapeutic category,https://example.com/products,Manufacturer public site,High,Web page,Public page; terms should be reviewed before automated redistribution
+SRC-MFR,ABC Pharma Branded Products,Product master / composition / therapeutic category,https://example.com/products,Manufacturer public site,High,Web page,Public page; terms should be reviewed before automated redistribution
 SRC-RXN,RxNorm / NLM,Drug normalization and identifiers,https://www.nlm.nih.gov/research/umls/rxnorm/,U.S. National Library of Medicine,High,API,Use for identity normalization
 SRC-PUBCHEM,PubChem,Chemical identity / compound identifiers / bioactivity links,https://pubchem.ncbi.nlm.nih.gov/,NIH/NLM/NCBI,High,API,Programmatic PUG APIs available
 SRC-PUBMED,PubMed / NCBI,Peer-reviewed biomedical literature discovery,https://pubmed.ncbi.nlm.nih.gov/,NIH/NLM/NCBI,High,API,Store citation/abstract metadata; respect article licensing
