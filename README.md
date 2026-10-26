@@ -1,6 +1,5 @@
 # Drug Combination Intelligence
-
-A leadership-ready, lightweight research **evidence-synthesis demonstrator** that
+Lightweight research **evidence-synthesis demonstrator** that
 shows how an AI agent workflow can accelerate early drug-combination research for
 **Acme Pharma** products.
 
