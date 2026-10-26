@@ -1,0 +1,11 @@
+source_id,source_name,purpose,source_url,publisher,authority_level,access_method,usage_notes
+SRC-MFR,Acme Pharma Branded Products,Product master / composition / therapeutic category,https://example.com/products,Manufacturer public site,High,Web page,Public page; terms should be reviewed before automated redistribution
+SRC-RXN,RxNorm / NLM,Drug normalization and identifiers,https://www.nlm.nih.gov/research/umls/rxnorm/,U.S. National Library of Medicine,High,API,Use for identity normalization
+SRC-PUBCHEM,PubChem,Chemical identity / compound identifiers / bioactivity links,https://pubchem.ncbi.nlm.nih.gov/,NIH/NLM/NCBI,High,API,Programmatic PUG APIs available
+SRC-PUBMED,PubMed / NCBI,Peer-reviewed biomedical literature discovery,https://pubmed.ncbi.nlm.nih.gov/,NIH/NLM/NCBI,High,API,Store citation/abstract metadata; respect article licensing
+SRC-DAILYMED,DailyMed,Structured product labels / safety / interactions,https://dailymed.nlm.nih.gov/,U.S. National Library of Medicine,High,API,Prefer label sections and provenance
+SRC-OPENFDA-LABEL,openFDA Drug Labeling,Regulatory labeling / safety sections,https://open.fda.gov/apis/drug/label/,U.S. FDA,High,API,Public API; API key not required for basic use
+SRC-OPENFDA-AE,openFDA Drug Adverse Events,Post-market adverse event reports,https://open.fda.gov/apis/drug/event/,U.S. FDA,High,API,Signals/reports are not proof of causality
+SRC-DRUGCOMB,Drug combination evidence dataset,Combination response / synergy / antagonism evidence,https://drugcomb.org/,Research resource,High,Dataset/web,Verify dataset license/version before redistribution
+SRC-LIVERTOX,LiverTox,Drug-induced liver injury evidence,https://www.ncbi.nlm.nih.gov/books/NBK547852/,NIH/NLM/NCBI,High,Web/reference,Specialized toxicity reference
+SRC-CHEMBL,ChEMBL,Compound-target-bioactivity evidence,https://www.ebi.ac.uk/chembl/,EMBL-EBI,High,API/download,Useful for mechanism/target layer

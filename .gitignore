@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+
+# --- Secrets / credentials (NEVER commit) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+secrets.toml
+.streamlit/secrets.toml
+# Azure / cloud credential caches
+.azure/
+azure.json
+*.publishsettings
+
+# --- Local caches / runtime ---
+.cache/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/

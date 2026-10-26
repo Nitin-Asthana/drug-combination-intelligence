@@ -1,0 +1,265 @@
+{
+  "levonadifloxacin|metformin": [
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+      "source_identifier": "SPL:0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "metformin label excerpt: 7 DRUG INTERACTIONS Table 4 presents clinically significant drug interactions with ZITUVIMET: Table 4: Clinically Significant Drug Interactions with ZITUVIMET Carbonic Anhydrase Inhibitors Clinical Impact: Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with ZITUVIMET may increase the risk for lactic acidosis. Intervention: Consider more frequent monitoring of these patients. Examples: Topiramate, zonisamide, acetazolamide or dichlorphenamide. Drugs that Reduce Metformin C",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    }
+  ],
+  "mycophenolate mofetil|tacrolimus": [
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42602030/",
+      "source_identifier": "PMID:42602030",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Efficacy and safety of various immunosuppressive agents for pediatric Henoch-Schönlein purpura nephritis (IgA vasculitis nephritis) in Chinese children: a systematic review and network meta-analysis. — Front Immunol (2026)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42601817/",
+      "source_identifier": "PMID:42601817",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Tofacitinib for Calcinosis Cutis Associated With Juvenile Dermatomyositis: An Open-Label Single-Arm Study. — ACR Open Rheumatol (2026 Aug)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42579071/",
+      "source_identifier": "PMID:42579071",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Lower hepatitis E clearance rates in thoracic organ recipients compared to visceral organ recipients: an effect of stronger immunosuppression? — Infection (2026 Aug 11)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42562676/",
+      "source_identifier": "PMID:42562676",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "[Anti-synthetase syndrome treatment]. — Rev Med Interne (2026 Aug 6)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42558891/",
+      "source_identifier": "PMID:42558891",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Targeted therapy against recurrent anti-synthetase syndrome associated interstitial lung disease after bilateral lung transplantation guided by transcriptomic analyses: a case-based study. — Front Immunol (2026)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08cf2861-2483-405d-a872-a88a5c235f9a",
+      "source_identifier": "SPL:08cf2861-2483-405d-a872-a88a5c235f9a",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "tacrolimus label excerpt: 7 DRUG INTERACTIONS Risk of rejection with strong CYP3A inducers and risk of serious adverse reactions with strong CYP3A inhibitors: Adjust dose and monitor tacrolimus concentrations. ( 2.4 , 5.10 , 7.2 ) Therapeutic drug monitoring and dose reduction for tacrolimus extended-release capsules should be considered when tacrolimus extended-release capsules is co-administered with cannabidiol. ( 2.4 , 5.15 , 7.3 ) See Full Prescribing Information for clinically significant drug interactions. ( 7.1 , 7.2 , 7.3 ) 7.1 Mycophenolic Acid When tacrolimus extended-release capsules is prescribed with a gi",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f1704e2-a66a-4be5-8127-ebb5947c7b64",
+      "source_identifier": "SPL:0f1704e2-a66a-4be5-8127-ebb5947c7b64",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "mycophenolate mofetil label excerpt: 7 DRUG INTERACTIONS See FPI for drugs that may interfere with systemic exposure and reduce mycophenolate mofetil efficacy: antacids with magnesium or aluminum hydroxide, proton pump inhibitors, drugs that interfere with enterohepatic recirculation, telmisartan, calcium-free phosphate binders. ( 7.1 ) Mycophenolate mofetil may reduce effectiveness of oral contraceptives. Use of additional barrier contraceptive methods is recommended. ( 7.2 ) See FPI for other important drug interactions. ( 7 ) 7.1 Effect of Other Drugs on Mycophenolate Mofetil Table 7 Drug Interactions with Mycophenolate mofeti",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    }
+  ],
+  "dexamethasone|pregabalin": [
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42009917/",
+      "source_identifier": "PMID:42009917",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Combination of dexamethasone and pregabalin for postoperative pain after laminectomy: a randomized controlled trial. — Eur Spine J (2026 Apr 20)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42001111/",
+      "source_identifier": "PMID:42001111",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Randomized, double-blind, placebo-controlled study of oral duloxetine in prevention of acute pain syndrome in breast cancer patients receiving paclitaxel (DOPA study). — Trials (2026 Apr 18)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41860737/",
+      "source_identifier": "PMID:41860737",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "On-target, off-tumor oral toxicities of talquetamab in heavily pretreated multiple myeloma. — Support Care Cancer (2026 Mar 20)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41781853/",
+      "source_identifier": "PMID:41781853",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "The effect of adding a second multimodal analgesic component to anesthesia regimens on acute postoperative pain outcomes: a systematic review and meta-analysis. — BMC Anesthesiol (2026 Mar 4)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40081430/",
+      "source_identifier": "PMID:40081430",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Ultrasonic head-mounted device spatiotemporal opening blood-brain barrier enhances the brain permeation of drugs for treatment of radiation-induced brain injury. — Int J Pharm (2025 Apr 15)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0101cd1f-4a95-40e9-86a8-ccde8d656e3d",
+      "source_identifier": "SPL:0101cd1f-4a95-40e9-86a8-ccde8d656e3d",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "pregabalin label excerpt: 7 DRUG INTERACTIONS Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (less than 2% of a dose recovered in urine as metabolites), and does not bind to plasma proteins, its pharmacokinetics are unlikely to be affected by other agents through metabolic interactions or protein binding displacement. In vitro and in vivo studies showed that pregabalin is unlikely to be involved in significant pharmacokinetic drug interactions. Specifically, there are no pharmacokinetic interactions between pregabalin and the following antiepileptic drugs: c",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01cfaa3e-5e30-18fa-e063-6394a90a084e",
+      "source_identifier": "SPL:01cfaa3e-5e30-18fa-e063-6394a90a084e",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "dexamethasone label excerpt: WARNINGS General Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS ). Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation. Cardio-Renal Average and large doses of corticosteroids can cause elevation of blood pressure, sodium and water retention, and increased excretion of potassium. These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    }
+  ],
+  "insulin glargine|metformin": [
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42556625/",
+      "source_identifier": "PMID:42556625",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "The role of GLP-1 and GIP receptor agonists in the treatment of diabetes and obesity. — Pharmacol Res (2026 Aug 6)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42498959/",
+      "source_identifier": "PMID:42498959",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Treatment with dapagliflozin and empagliflozin reduces concentrations of N4-acetylcytidine in plasma, a biomarker associated with vascular damage. — Cardiovasc Diabetol (2026 Jul 24)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42355840/",
+      "source_identifier": "PMID:42355840",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Prioritizing Antidiabetic Drugs for Inflammatory Bowel Disease Through Inverse Signal Detection: A FAERS Pharmacovigilance Study. — J Clin Med (2026 Jun 16)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42304171/",
+      "source_identifier": "PMID:42304171",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Comparative Effects of Antidiabetic Drugs on Body Composition: A Systematic Review and Network Meta-Analysis. — Diabetes Obes Metab (2026 Sep)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "PubMed / NCBI",
+      "source_type": "literature",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42251769/",
+      "source_identifier": "PMID:42251769",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes: The ACHIEVE-5 Randomized Clinical Trial. — JAMA (2026 Aug 4)",
+      "authority_level": "Peer-reviewed primary study",
+      "provenance_status": "cached",
+      "evidence_layer": "literature"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae",
+      "source_identifier": "SPL:0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "insulin glargine label excerpt: 7 DRUG INTERACTIONS Table 6 includes clinically significant drug interactions with BASAGLAR Table 6: Clinically Significant Drug Interactions with BASAGLAR Drugs That May Increase the Risk of Hypoglycemia Drugs: Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics. Intervention: Dose reductions and increased frequency of glucose monitoring may be required when BASAGLAR is co-administered with th",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    },
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+      "source_identifier": "SPL:0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "metformin label excerpt: 7 DRUG INTERACTIONS Table 4 presents clinically significant drug interactions with ZITUVIMET: Table 4: Clinically Significant Drug Interactions with ZITUVIMET Carbonic Anhydrase Inhibitors Clinical Impact: Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with ZITUVIMET may increase the risk for lactic acidosis. Intervention: Consider more frequent monitoring of these patients. Examples: Topiramate, zonisamide, acetazolamide or dichlorphenamide. Drugs that Reduce Metformin C",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    }
+  ],
+  "dicyclomine|etoricoxib": [
+    {
+      "source_name": "openFDA Drug Labeling",
+      "source_type": "regulatory_label",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01413a77-48f8-1a8a-e063-6394a90ae494",
+      "source_identifier": "SPL:01413a77-48f8-1a8a-e063-6394a90ae494",
+      "retrieved_date": "2026-08-18",
+      "evidence_excerpt_or_summary": "dicyclomine label excerpt: 7 DRUG INTERACTIONS Antiglaucoma agents : anticholinergics antagonize antiglaucoma agents and may increase intraoccular pressure (7) Anticholinergic agents : may affect the gastrointestinal absorption of various drugs; may also increase certain actions or side effects of other anticholinergic drugs (7) Antacids : interfere with the absorption of anticholinergic agents (7) 7.1 Antiglaucoma Agents Anticholinergics antagonize the effects of antiglaucoma agents. Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as cort",
+      "authority_level": "Official regulatory labeling",
+      "provenance_status": "cached",
+      "evidence_layer": "regulatory"
+    }
+  ]
+}

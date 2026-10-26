@@ -1,0 +1,38 @@
+ingredient_id,ingredient_name,normalized_name,rxnorm_id,pubchem_cid,notes
+ING-0001,Levonadifloxacin,levonadifloxacin,,,Identifiers to be enriched by the public-source collector.
+ING-0002,Mecobalamin,methylcobalamin,,,Identifiers to be enriched by the public-source collector.
+ING-0003,Alpha lipoic acid,alpha lipoic acid,,,Identifiers to be enriched by the public-source collector.
+ING-0004,Pyridoxine hydrochloride,pyridoxine,,,Identifiers to be enriched by the public-source collector.
+ING-0005,Folic acid,folic acid,,,Identifiers to be enriched by the public-source collector.
+ING-0006,Vitamin D3,cholecalciferol,,,Identifiers to be enriched by the public-source collector.
+ING-0007,Pregabalin,pregabalin,,,Identifiers to be enriched by the public-source collector.
+ING-0008,Nortriptyline,nortriptyline,,,Identifiers to be enriched by the public-source collector.
+ING-0009,Methylcobalamin,methylcobalamin,,,Identifiers to be enriched by the public-source collector.
+ING-0010,Boswellia serrata extract,boswellia serrata extract,,,Identifiers to be enriched by the public-source collector.
+ING-0011,Native undenatured collagen type II,undenatured type II collagen,,,Identifiers to be enriched by the public-source collector.
+ING-0012,Diclofenac diethylamine,diclofenac,,,Identifiers to be enriched by the public-source collector.
+ING-0013,Linseed oil,linseed oil,,,Identifiers to be enriched by the public-source collector.
+ING-0014,Methyl salicylate,methyl salicylate,,,Identifiers to be enriched by the public-source collector.
+ING-0015,Menthol,menthol,,,Identifiers to be enriched by the public-source collector.
+ING-0016,Levetiracetam,levetiracetam,,,Identifiers to be enriched by the public-source collector.
+ING-0017,Gabapentin,gabapentin,,,Identifiers to be enriched by the public-source collector.
+ING-0018,Etoricoxib,etoricoxib,,,Identifiers to be enriched by the public-source collector.
+ING-0019,Thiocolchicoside,thiocolchicoside,,,Identifiers to be enriched by the public-source collector.
+ING-0020,Insulin glargine,insulin glargine,,,Identifiers to be enriched by the public-source collector.
+ING-0021,Teriparatide,teriparatide,,,Identifiers to be enriched by the public-source collector.
+ING-0022,Glimepiride,glimepiride,,,Identifiers to be enriched by the public-source collector.
+ING-0023,Metformin,metformin,,,Identifiers to be enriched by the public-source collector.
+ING-0024,Pioglitazone,pioglitazone,,,Identifiers to be enriched by the public-source collector.
+ING-0025,Teneligliptin,teneligliptin,,,Identifiers to be enriched by the public-source collector.
+ING-0026,Erythropoietin,erythropoietin,,,Identifiers to be enriched by the public-source collector.
+ING-0027,Tacrolimus,tacrolimus,,,Identifiers to be enriched by the public-source collector.
+ING-0028,Mycophenolate sodium,mycophenolate sodium,,,Identifiers to be enriched by the public-source collector.
+ING-0029,Mycophenolate mofetil,mycophenolate mofetil,,,Identifiers to be enriched by the public-source collector.
+ING-0030,Darbepoetin alfa,darbepoetin alfa,,,Identifiers to be enriched by the public-source collector.
+ING-0031,Dicyclomine,dicyclomine,,,Identifiers to be enriched by the public-source collector.
+ING-0032,Tramadol,tramadol,,,Identifiers to be enriched by the public-source collector.
+ING-0033,Acetaminophen,acetaminophen,,,Identifiers to be enriched by the public-source collector.
+ING-0034,Hydroxocobalamin,hydroxocobalamin,,,Identifiers to be enriched by the public-source collector.
+ING-0035,Dexamethasone,dexamethasone,,,Identifiers to be enriched by the public-source collector.
+ING-0036,Dexamethasone sodium phosphate,dexamethasone sodium phosphate,,,Identifiers to be enriched by the public-source collector.
+ING-0037,Betamethasone,betamethasone,,,Identifiers to be enriched by the public-source collector.

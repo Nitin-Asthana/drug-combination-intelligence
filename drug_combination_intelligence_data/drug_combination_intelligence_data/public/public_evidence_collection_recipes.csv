@@ -1,0 +1,10 @@
+evidence_seed_id,evidence_type,query_template,preferred_source,agent_instruction,status
+QUERY-001,Drug interaction,{A} AND {B},PubMed,Literature search for exact pair; extract only source-supported findings.,collection_recipe
+QUERY-002,Combination efficacy,{A} AND {B} AND (synergy OR combination OR additive OR antagonism),PubMed,Look for combination outcome evidence.,collection_recipe
+QUERY-003,Toxicity,{A} AND {B} AND (toxicity OR adverse OR safety),PubMed,Look for safety/toxicity evidence.,collection_recipe
+QUERY-004,Regulatory label,{A},DailyMed,Retrieve label and relevant interaction/warning/adverse reaction sections.,collection_recipe
+QUERY-005,FDA label,{A},openFDA,Search official structured labeling.,collection_recipe
+QUERY-006,FDA adverse events,{A},openFDA,Retrieve reports/signals; never infer causality from report counts alone.,collection_recipe
+QUERY-007,Compound identity,{A},PubChem,Resolve compound identity and identifiers.,collection_recipe
+QUERY-008,Drug identity,{A},RxNorm,Normalize drug concepts and synonyms.,collection_recipe
+QUERY-009,Combination evidence,{A} + {B},DrugComb,Search exact pair and extract source-defined combination metrics if available.,collection_recipe

@@ -1,0 +1,6 @@
+case_id,product_a,product_b,ingredient_a,ingredient_b,research_question,case_type
+CASE-001,EMROK,GLIMADAY 2 mg,Levonadifloxacin,Metformin + Glimepiride,Assess combination evidence; do not infer clinical safety from absence of evidence.,Demo
+CASE-002,TACLORAN 1 MG 10C,MYCORAL M,Tacrolimus,Mycophenolate mofetil,"Assess interaction, safety and published combination evidence.",Demo
+CASE-003,M 1500 NP,DECDAN 0.5 MG 10 TB,Pregabalin + Nortriptyline + Methylcobalamin,Dexamethasone,Assess available evidence and identify evidence gaps.,Demo
+CASE-004,GLARITUS 100IU,GLIMADAY 2 mg,Insulin glargine,Metformin + Glimepiride,Assess combination context and safety evidence; distinguish established therapy from novel combination evidence.,Demo
+CASE-005,ETOBRIX 90 MG 10C,DIPATRAM PLUS,Etoricoxib,Dicyclomine + Tramadol + Acetaminophen,Assess overlapping safety considerations and evidence.,Demo
